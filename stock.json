@@ -1,0 +1,12 @@
+
+[
+    {"id": 1, "productName": "Green Shoes", "img": "./assets/images/green-shoes.jpg", "category": "FootWear", "stock": 3, "price": 30, "available": true},
+    {"id": 2, "productName": "Green Shirt", "img": "./assets/images/green-shirt.jpg", "category": "Upper Body", "stock": 2, "price": 10, "available": true},
+    {"id": 3, "productName": "Red Shoes", "img": "./assets/images/red-shoes.jpg", "category": "FootWear", "stock": 5, "price": 15, "available": true},
+    {"id": 4, "productName": "Red Shirt", "img": "./assets/images/red-shirt.jpg", "category": "Upper Body", "stock": 4, "price": 5, "available": true},
+    {"id": 5, "productName": "Blue Shoes", "img": "./assets/images/blue-shoes.jpg", "category": "FootWear", "stock": 2, "price": 50, "available": true},
+    {"id": 6, "productName": "Blue Shirt", "img": "./assets/images/blue-shirt.jpg", "category": "Upper Body", "stock": 1, "price": 15, "available": true},
+    {"id": 7, "productName": "Blue Jeans", "img": "./assets/images/blue-jeans.jpg", "category": "Lower Body", "stock": 4, "price": 25, "available": true},
+    {"id": 8, "productName": "Shorts", "img": "./assets/images/shorts.jpg", "category": "Lower Body", "stock": 2, "price": 20, "available": true},
+    {"id": 9, "productName": "Black Jeans", "img": "./assets/images/black-jeans.jpg", "category": "Lower Body", "stock": 3, "price": 30, "available": true}
+]
